@@ -22,7 +22,7 @@ A interface é composta por:
 - **Contador**: Exibe o número de cliques e é redefinido após atingir o limite de 10 cliques.
 - **Título e Legenda**: Um título indicando o nome da POC e uma legenda explicativa.
 
-- Exemplo Design ![Screenshot do Projeto](URL_DA_IMAGEM_DO_SITE_AQUI)
+- Exemplo Design ![fotoSite](https://github.com/user-attachments/assets/724853dc-d8c9-4334-9a15-24b8c8c4a269)
 
 ## 🛠️ Tecnologias Utilizadas
 
